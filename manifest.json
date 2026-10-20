@@ -1,0 +1,9 @@
+{
+  "name": "MBY Gamestation",
+  "short_name": "MBYGame",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#38ef7d",
+  "orientation": "portrait"
+}
